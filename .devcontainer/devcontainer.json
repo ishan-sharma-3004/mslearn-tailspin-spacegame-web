@@ -38,6 +38,7 @@
         "azure-cli": "latest",
         "git-lfs": "latest",
         "github-cli": "latest",
-        "powershell": "latest"
+        "powershell": "latest",
+        "ghcr.io/elanhasson/devcontainer-features/dotnet-aspire-daily:1": {}
     }
 }
